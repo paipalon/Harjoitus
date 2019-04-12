@@ -1,0 +1,2 @@
+# Harjoitus
+Ensimmäinen projekti
